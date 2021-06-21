@@ -7,7 +7,7 @@ school project by tunica lab
 
 1. npm install
 2. npm start
-3. mpm i -g json-server
+3. npm i -g json-server
 4. npx json-server --watch db.json --port 3006
 
 
